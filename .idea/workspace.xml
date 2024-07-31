@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fec5b0c-8bd3-4fa7-a3dc-1fd908440762" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Creature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Entity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/EntityFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/ExtraGrassFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Grass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Kids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Rock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/Tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/Chick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/Chickens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/Hen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/Herbivore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/Rooster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/herbivore/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/FemaleFox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/FoxCub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/Foxes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/MaleFox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/Predator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/entity/predator/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/Coordinates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/EntityType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/WorldMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/WorldMapFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/WorldMapPanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/WorldMapUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/map/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/pathfinding/PathFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/pathfinding/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/pathfinding/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/world/Actions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/world/Simulation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/world/SimulationUI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/world/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/com/toropov/oleg/world/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/EntityFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/ExtraGrassFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Kids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/herbivore/Chick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/herbivore/Chickens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/herbivore/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/herbivore/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/herbivore/Rooster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/predator/FemaleFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/predator/FoxCub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/predator/Foxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/predator/MaleFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/entity/predator/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/EntityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/WorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/WorldMapFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/WorldMapPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/map/WorldMapUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/pathfinding/PathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/world/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/world/Simulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toropov/oleg/world/SimulationUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/femaleFox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/foxCub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/maleFox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/rooster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/entity/EntityFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/entity/ExtraGrassFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/entity/herbivore/HenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/entity/herbivore/RoosterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/entity/predator/FoxCubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/map/WorldMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/toropov/oleg/pathfinding/PathFinderTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;minikube&quot;,
+      &quot;originalNamespace&quot;: &quot;default&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hq7p14iQDE2dyqLsqnmsOi0f15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Log4jTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Map.executor": "Run",
+    "Application.MapConsoleRender.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "JUnit.All in simulation_of_2d_world.executor": "Coverage",
+    "JUnit.CreatureTest.executor": "Run",
+    "JUnit.EntityFactoryTest.executor": "Coverage",
+    "JUnit.ExtraGrassFactoryTest.executor": "Run",
+    "JUnit.FoxCubTest.executor": "Run",
+    "JUnit.HenTest.executor": "Run",
+    "JUnit.PathFinderTest.executor": "Run",
+    "JUnit.PathFinderTest.testFindPathAStar_NoPath.executor": "Run",
+    "JUnit.PathFinderTest.testFindPathAStar_PathExists.executor": "Run",
+    "JUnit.PathFinderTest.testFindPathAStar_SameStartAndGoal.executor": "Run",
+    "JUnit.PathFinderTest.testIsSquareAvailableForMove.executor": "Run",
+    "JUnit.PathFinderTest.testIsSquareAvailableForMoveWithRooster.executor": "Run",
+    "JUnit.RoosterTest.executor": "Run",
+    "JUnit.SampleTest.executor": "Run",
+    "JUnit.WorldMapTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user1/Desktop/simulation_of_2d_world",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.toropov.oleg.map" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user1\Desktop\simulation_of_2d_world\src\main\resources" />
+      <recent name="C:\Users\user1\Desktop\simulation_of_2d_world\src\main" />
+      <recent name="C:\Users\user1\Desktop\simulation_of_2d_world\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.toropov.oleg.map" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.toropov.oleg.Main" />
+      <module name="simulation_of_2d_world" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in simulation_of_2d_world" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulation_of_2d_world" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulation_of_2d_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toropov.oleg.pathfinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.toropov.oleg.pathfinding" />
+      <option name="MAIN_CLASS_NAME" value="com.toropov.oleg.pathfinding.PathFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathFinderTest.testFindPathAStar_NoPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulation_of_2d_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toropov.oleg.pathfinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.toropov.oleg.pathfinding" />
+      <option name="MAIN_CLASS_NAME" value="com.toropov.oleg.pathfinding.PathFinderTest" />
+      <option name="METHOD_NAME" value="testFindPathAStar_NoPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathFinderTest.testIsSquareAvailableForMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulation_of_2d_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toropov.oleg.pathfinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.toropov.oleg.pathfinding" />
+      <option name="MAIN_CLASS_NAME" value="com.toropov.oleg.pathfinding.PathFinderTest" />
+      <option name="METHOD_NAME" value="testIsSquareAvailableForMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathFinderTest.testIsSquareAvailableForMoveWithRooster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulation_of_2d_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toropov.oleg.pathfinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.toropov.oleg.pathfinding" />
+      <option name="MAIN_CLASS_NAME" value="com.toropov.oleg.pathfinding.PathFinderTest" />
+      <option name="METHOD_NAME" value="testIsSquareAvailableForMoveWithRooster" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in simulation_of_2d_world" />
+        <item itemvalue="JUnit.PathFinderTest" />
+        <item itemvalue="JUnit.PathFinderTest.testIsSquareAvailableForMove" />
+        <item itemvalue="JUnit.PathFinderTest.testFindPathAStar_NoPath" />
+        <item itemvalue="JUnit.PathFinderTest.testIsSquareAvailableForMoveWithRooster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fec5b0c-8bd3-4fa7-a3dc-1fd908440762" name="Changes" comment="" />
+      <created>1718309935029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718309935029</updated>
+      <workItem from="1718309936178" duration="15109000" />
+      <workItem from="1718653345349" duration="16418000" />
+      <workItem from="1718824630694" duration="24195000" />
+      <workItem from="1719222905467" duration="27121000" />
+      <workItem from="1719404145586" duration="22000" />
+      <workItem from="1719424464191" duration="773000" />
+      <workItem from="1719510449873" duration="90000" />
+      <workItem from="1719510931158" duration="338000" />
+      <workItem from="1719560937329" duration="10000" />
+      <workItem from="1719676496423" duration="1680000" />
+      <workItem from="1719678193479" duration="4799000" />
+      <workItem from="1719683012872" duration="22637000" />
+      <workItem from="1719738729498" duration="4024000" />
+      <workItem from="1719862564636" duration="22001000" />
+      <workItem from="1719918512985" duration="349000" />
+      <workItem from="1720206319191" duration="18727000" />
+      <workItem from="1720293712727" duration="122000" />
+      <workItem from="1720377329573" duration="71000" />
+      <workItem from="1720414265358" duration="13000" />
+      <workItem from="1720477400434" duration="9472000" />
+      <workItem from="1720523868428" duration="55000" />
+      <workItem from="1720555632990" duration="18142000" />
+      <workItem from="1720632895238" duration="965000" />
+      <workItem from="1720710797438" duration="15000" />
+      <workItem from="1720728906069" duration="6117000" />
+      <workItem from="1720736037049" duration="1044000" />
+      <workItem from="1720737095229" duration="262000" />
+      <workItem from="1720737366994" duration="222000" />
+      <workItem from="1720737628528" duration="1108000" />
+      <workItem from="1720738752316" duration="1913000" />
+      <workItem from="1720740681769" duration="526000" />
+      <workItem from="1720741218282" duration="9994000" />
+      <workItem from="1721983828838" duration="13000" />
+      <workItem from="1722285268271" duration="14841000" />
+      <workItem from="1722380610776" duration="13419000" />
+      <workItem from="1722453828313" duration="7024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simulation_of_2d_world$EntityFactoryTest.ic" NAME="EntityFactoryTest Coverage Results" MODIFIED="1722388637823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.toropov.oleg.entity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/simulation_of_2d_world$WorldMapTest.ic" NAME="WorldMapTest Coverage Results" MODIFIED="1722388193514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.toropov.oleg.map.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/simulation_of_2d_world$All_in_simulation_of_2d_world.ic" NAME="All in simulation_of_2d_world Coverage Results" MODIFIED="1722456589077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

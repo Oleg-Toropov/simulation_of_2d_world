@@ -1,0 +1,7 @@
+com.toropov.oleg
+com.toropov.oleg.entity
+com.toropov.oleg.entity.herbivore
+com.toropov.oleg.entity.predator
+com.toropov.oleg.map
+com.toropov.oleg.pathfinding
+com.toropov.oleg.world
